@@ -19,16 +19,11 @@ client.on("ready", () => {
 
 //basic message react 
 client.on("messageCreate", (message)=>{
-    if (message.content === "ahuj"){ //trigger word
-        message.reply("nazdaar") //answer
+    if (message.content === "hello"){ //trigger word
+        message.reply("hi") //answer
     }
 })
-//basic message react 
-client.on("messageCreate", (message)=>{
-    if (message.content === "ban alex"){ //trigger word
-        message.reply("processing...") //answer
-    }
-})
+
 //discord id for welcome channel
 const welcomeChannelID = "940643051867619388"
 

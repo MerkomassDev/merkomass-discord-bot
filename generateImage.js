@@ -3,7 +3,7 @@ const Discord = require("discord.js")
 
 const background = "https://i.imgur.com/sMHCgKF.jpg" //link to background
 
-//const Roboto = require("@canvas-fonts/roboto")
+//const Roboto = require("@fontsource/roboto")
 
 //  dimensions of background image
 //  !!! NEEDS TO BE CHANGED MANUALLY FOR EVERY PICTURE !!! (for now)
@@ -43,6 +43,7 @@ const generateImage = async (member) => {
     ctx.closePath()
     ctx.clip()
     
+    //draws the "edited" profile picture with a circle around it
     ctx.drawImage(avimg, av.x, av.y)
     ctx.restore()
     
@@ -54,7 +55,7 @@ const generateImage = async (member) => {
     ctx.fillText("Welcome",dim.width / 2, dim.margin + 70)
     
     ctx.font = "60px Roboto"
-    ctx.fillText(username + discrim, dim.width / 2, dim.height - dim.margin - 125)
+    ctx.fillText(username + " #" + discrim, dim.width / 2, dim.height - dim.margin - 125)
     
     ctx.font = "40px Roboto"
     ctx.fillText("to the server", dim.width / 2, dim.height - dim.margin - 50)
