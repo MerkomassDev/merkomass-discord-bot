@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/commands/info/ping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/messageCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +58,7 @@
       <workItem from="1645558649167" duration="597000" />
       <workItem from="1645637350734" duration="4932000" />
       <workItem from="1645862949924" duration="597000" />
-      <workItem from="1645911142588" duration="7754000" />
+      <workItem from="1645911142588" duration="8097000" />
     </task>
     <servers />
   </component>
