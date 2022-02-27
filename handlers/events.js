@@ -43,4 +43,7 @@ function initEvents(bot){
     client.on("messageCreate",(message) =>{
         triggerEventHandler(bot, "messageCreate", message)
     })
+    client.on("runHelp",(message) =>{
+        triggerEventHandler(bot, "runHelp", message)
+    })
 }

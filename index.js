@@ -31,20 +31,18 @@ client.loadCommands(bot, false)
 module.exports = bot
 
 //old code
+
+
+
+
 /*
-//system check to write if logged in with correct user profile (bot)
-client.on("ready", () => {
-    console.log(`Logged in as ${client.user.tag}`)
-})
-
-
-
 //basic message react 
 client.on("messageCreate", (message)=>{
     if (message.content === "hello"){ //trigger word
         message.reply("hi") //answer
     }
 })
+*/
 
 //discord id for welcome channel
 const welcomeChannelID = "940643051867619388"
@@ -60,8 +58,8 @@ client.on("guildMemberAdd", async (member) =>{
 
 //when a member leaves, the bot sends a leave message
 client.on("guildMemberRemove", (member) =>{
-    member.guild.channels.cache.get(welcomeChannelID).send(`<@${member.id}> bye :(`)
-})*/
+    member.guild.channels.cache.get(welcomeChannelID).send(`${member.user.username}#${member.user.discriminator} left us :(`)
+})
 
 
 
