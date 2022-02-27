@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="" />
+    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/messageCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/events/messageCreate.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +61,8 @@
       <workItem from="1645558649167" duration="597000" />
       <workItem from="1645637350734" duration="4932000" />
       <workItem from="1645862949924" duration="597000" />
-      <workItem from="1645911142588" duration="8097000" />
+      <workItem from="1645911142588" duration="8426000" />
+      <workItem from="1645949361107" duration="1892000" />
     </task>
     <servers />
   </component>

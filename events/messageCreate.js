@@ -34,7 +34,7 @@ module.exports = {
             let errMsg = err.toString()
             
             if (errMsg.startsWith("?")){
-                errMsg = errMsg.splice(1)
+                errMsg = errMsg.slice(1)
                 await message.reply(errMsg)
             }
         else
