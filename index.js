@@ -30,20 +30,6 @@ client.loadCommands(bot, false)
 
 module.exports = bot
 
-//old code
-
-
-
-
-/*
-//basic message react 
-client.on("messageCreate", (message)=>{
-    if (message.content === "hello"){ //trigger word
-        message.reply("hi") //answer
-    }
-})
-*/
-
 //discord id for welcome channel
 const welcomeChannelID = "940643051867619388"
 
