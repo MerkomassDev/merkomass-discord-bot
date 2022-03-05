@@ -5,6 +5,6 @@ module.exports = {
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {
-        message.reply("||nothing to see here :)||")
+        message.reply("||nothing to see here :)||") //is a spoiler message
     }
 }

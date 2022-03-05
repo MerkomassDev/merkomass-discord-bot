@@ -1,5 +1,4 @@
 ﻿const Discord = require("discord.js")
-//const {Messages} = require("mess")   no idea what it did lol
 require("dotenv").config()
 
 const generateImage = require("./generateImage")
