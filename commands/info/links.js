@@ -24,11 +24,3 @@ module.exports = {
         message.reply({embeds: [linksEmbed]})
     }
 }
-/*
-            "LinkTree - <https://linktr.ee/MerkomassDev>" +
-            "\nGitHub Repo of this bot - <https://github.com/MerkomassUnity/merkomass-discord-bot>" +
-            "\nGitHub - <https://github.com/MerkomassUnity>" +
-            "\nYouTube - <https://www.youtube.com/channel/UCPWgV3iQKruKtUf5bJ3hHAA>" +
-            "\n||i will change this into hyperlinks later||"
- */
- //   , value: '[Here is the link](https://linktr.ee/MerkomassDev)'
