@@ -12,7 +12,7 @@ module.exports = {
             .setTitle('Command List')
             .setDescription('Here are the commands i can do:')
             .addFields(
-                {name: 'Informations', value: '?help - displays this message\n?links - send all the links where you can find me'},
+                {name: 'Information', value: '?help - displays this message\n?links - send all the links where you can find me'},
                 {name: 'Fun', value: 'none'},
                 {name: 'Other', value: '?ping - replies with "pong"\n?secret - a very secret command'},
             )
