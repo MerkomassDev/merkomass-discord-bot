@@ -7,7 +7,8 @@
     <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/info/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/info/help.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/info/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/info/links.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/userInfo/avatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/userInfo/avatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generateImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/generateImage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,16 @@
       <workItem from="1646559535507" duration="900000" />
       <workItem from="1646590135555" duration="3798000" />
       <workItem from="1646659540424" duration="595000" />
-      <workItem from="1647004312570" duration="2265000" />
+      <workItem from="1647004312570" duration="3866000" />
+      <workItem from="1647068925024" duration="3267000" />
+      <workItem from="1647122089080" duration="836000" />
+      <workItem from="1647156723955" duration="1200000" />
+      <workItem from="1647279989086" duration="1333000" />
+      <workItem from="1647550415884" duration="704000" />
+      <workItem from="1647624185479" duration="53000" />
+      <workItem from="1647674966414" duration="707000" />
+      <workItem from="1647767397286" duration="594000" />
+      <workItem from="1647786925073" duration="4934000" />
     </task>
     <servers />
   </component>

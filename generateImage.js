@@ -6,7 +6,7 @@ const background = "https://i.imgur.com/sMHCgKF.jpg" //link to background
 //const Roboto = require("@fontsource/roboto")
 
 //  dimensions of background image
-//  !!! NEEDS TO BE CHANGED MANUALLY FOR EVERY PICTURE !!! (for now)
+//  !!! NEEDS TO BE CHANGED MANUALLY FOR EVERY PICTURE !!! (for now or forever, im lazy)
 const dim = {
     height: 675,
     width: 1200,
