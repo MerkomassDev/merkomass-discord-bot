@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="" />
+    <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/commands/fun/cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/fun/define.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +43,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fizzynasersi.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/commands/testing/fizzynasersi.js" working-dir="$PROJECT_DIR$/commands/testing">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.fizzynasersi.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,7 +96,9 @@
       <workItem from="1647624185479" duration="53000" />
       <workItem from="1647674966414" duration="707000" />
       <workItem from="1647767397286" duration="594000" />
-      <workItem from="1647786925073" duration="5972000" />
+      <workItem from="1647786925073" duration="8137000" />
+      <workItem from="1648142572959" duration="4863000" />
+      <workItem from="1648279726220" duration="4492000" />
     </task>
     <servers />
   </component>
