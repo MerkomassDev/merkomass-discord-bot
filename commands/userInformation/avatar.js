@@ -1,7 +1,7 @@
 const { MessageEmbed } = require('discord.js');
 module.exports = {
     name: "avatar",
-    category: "userInfo",
+    category: "userInformation",
     description: "displays avatar of mentioned (@user) user or who ran the command",
     permissions: [],
     devOnly: false,

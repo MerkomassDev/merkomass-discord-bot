@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 module.exports = {
     name: "cat",
     category: "fun",
-    description: "",
+    description: "posts a random cat picture from an API",
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {

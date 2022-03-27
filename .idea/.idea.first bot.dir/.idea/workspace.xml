@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dc35cf9-b53c-494d-a783-b87b587464ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/commands/fun/cat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/fun/define.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.first bot.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/fun/cat.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/fun/cat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/info/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/info/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/info/ping.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/info/ping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/info/secret.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/info/secret.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/userInfo/avatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/userInformation/avatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/messageCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/events/messageCreate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +102,8 @@
       <workItem from="1647786925073" duration="8137000" />
       <workItem from="1648142572959" duration="4863000" />
       <workItem from="1648279726220" duration="4492000" />
+      <workItem from="1648320987748" duration="6609000" />
+      <workItem from="1648389540046" duration="3345000" />
     </task>
     <servers />
   </component>
