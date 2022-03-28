@@ -6,8 +6,7 @@ module.exports = {
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {
-        //replies with a help embed 
-        const helpEmbed = new MessageEmbed()
+        const helpEmbed = new MessageEmbed() //creates an embed message
             .setColor('#0099ff')
             .setTitle('Command List')
             .setDescription('Here are the commands i can do:')
@@ -20,6 +19,6 @@ module.exports = {
             .setTimestamp()
             .setFooter({text: 'MerkomassBot :)', iconURL: 'https://i.imgur.com/f5nZluu.jpg'})
 
-        message.reply({embeds: [helpEmbed]})
+        message.reply({embeds: [helpEmbed]}) //replies with the helpEmbed
     }
 }
