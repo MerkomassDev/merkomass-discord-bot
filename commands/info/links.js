@@ -6,8 +6,7 @@ module.exports = {
     description: "replies with a list of links where you can find me",
     devOnly: false,
     run: async ({client, message, args}) => {
-        //replies with a help embed 
-        const linksEmbed = new MessageEmbed()
+        const linksEmbed = new MessageEmbed() //creates an embed message
             .setColor('#0099ff')
             .setTitle('Link List')
             .setDescription('Here are the important links, where you can find me')
@@ -21,6 +20,6 @@ module.exports = {
             .setTimestamp()
             .setFooter({text: 'MerkomassBot :)', iconURL: 'https://i.imgur.com/f5nZluu.jpg'})
 
-        message.reply({embeds: [linksEmbed]})
+        message.reply({embeds: [linksEmbed]}) //replies with linksEmbed
     }
 }
