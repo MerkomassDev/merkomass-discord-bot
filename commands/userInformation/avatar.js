@@ -6,8 +6,8 @@ module.exports = {
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {
-            const user = message.mentions.users.first() || message.author
-            const avatarEmbed = new MessageEmbed()
+            const user = message.mentions.users.first() || message.author //get information about user and checks if there is a mention
+            const avatarEmbed = new MessageEmbed() //create an embed
                 .setColor(`#0099ff`)
                 .setTitle(`${user.username}'s Avatar`)
                 .setImage(
@@ -15,6 +15,6 @@ module.exports = {
                 )
                 .setTimestamp()
                 .setFooter({text: 'MerkomassBot :)', iconURL: 'https://i.imgur.com/f5nZluu.jpg'})
-            message.reply({embeds: [avatarEmbed]})
+            message.reply({embeds: [avatarEmbed]}) //send embed
     }
 }
