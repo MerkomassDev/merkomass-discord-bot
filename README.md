@@ -1,5 +1,7 @@
 # Merkomass Bot
 
+#DEPRACATED
+
 A Discord bot mainly focused on me learning new things, exploring more languages and features.\
 There's alot of small features such as information about users, measuring bot and API ping, random cat pictures and more.
 
@@ -49,11 +51,6 @@ Avatar command with @mention of an user (+with default avatar)\
 
 ![?ping command](https://i.imgur.com/MJMuSrR.png)
 
-
-
-## Author
-
-- [@Merkomass](https://www.github.com/MerkomassDev)
 
 
 
