@@ -53,7 +53,7 @@ Avatar command with @mention of an user (+with default avatar)\
 
 ## Author
 
-- [@Merkomass](https://www.github.com/MerkomassUnity)
+- [@Merkomass](https://www.github.com/MerkomassDev)
 
 
 
